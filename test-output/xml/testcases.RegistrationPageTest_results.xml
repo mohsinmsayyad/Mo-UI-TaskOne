@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Mo-UI-TaskOne"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.132">
+    <properties></properties>
+
+
+
+            <testcase
+                name="navigate_to_register_page"
+                time="0.132"
+                classname="testcases.RegistrationPageTest">
+            </testcase>
+</testsuite>

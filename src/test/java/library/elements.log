@@ -1,0 +1,27 @@
+//homepage:
+//*[@id="navigation-home"]
+By.id("navigation-home")
+
+//Account
+//*[@id="customer_login_link"]
+
+//REGISTER xpath
+//*[@id="keyboard-nav-3"]/div[2]/div[3]/a
+
+//FirstName ID
+//input[@id="ispbxii_1"]
+
+//LastName name
+//input[@name="customer[last_name]"]
+
+//email xpath
+//*[@id="ispbxii_3"]
+
+//password xpath
+//*[@id="ispbxii_3"]
+
+//REGISTER XPATH
+//*[@id="ispbxii_3"]
+
+
+
